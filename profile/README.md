@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Go Quiz 👋
 
 ```go
 package main
@@ -11,4 +11,3 @@ func main() {
     fmt.Println(a, b)
 }
 ```
-
